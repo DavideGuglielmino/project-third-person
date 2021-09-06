@@ -1,0 +1,14 @@
+﻿.vs/
+.idea/
+Library/
+Logs/
+Build/
+obj/
+Temp/
+UserSettings/
+FMODStudioCache.asset
+*.sln
+*.csproj
+FMOD/.*
+!FMOD/Build/
+fmod_editor.log
